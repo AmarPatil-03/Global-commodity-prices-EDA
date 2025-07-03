@@ -15,7 +15,7 @@ This case study aims to analyze global commodity price trends over time, identif
 
 ## Key objectives:
 
-Load and clean historical commodity price data.
+- Load and clean historical commodity price data.
 
 Perform exploratory data analysis (EDA).
 
