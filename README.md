@@ -17,45 +17,45 @@ This case study aims to analyze global commodity price trends over time, identif
 
 - Load and clean historical commodity price data.
 
-Perform exploratory data analysis (EDA).
+- Perform exploratory data analysis (EDA).
 
-Visualize time-series data for different commodities.
+- Visualize time-series data for different commodities.
 
-Detect outliers or sudden price changes.
+- Detect outliers or sudden price changes.
 
-Understand the relationship between commodity prices.
+- Understand the relationship between commodity prices.
 
-Draw conclusions on global economic indicators.
+- Draw conclusions on global economic indicators.
 
 
 
 ## 🛠️ Tools & Libraries
 Python
 
-Pandas – data manipulation
+- Pandas – data manipulation
 
-Matplotlib & Seaborn – data visualization
+- Matplotlib & Seaborn – data visualization
 
-NumPy – numerical operations
+- NumPy – numerical operations
 
-Jupyter Notebook – interactive coding and documentation
+- Jupyter Notebook – interactive coding and documentation
 
 
 
 ## 📈 Sample Analysis Performed
 Time-series plots of commodity prices (e.g., crude oil, gold, natural gas).
 
-Price volatility detection and smoothing.
+- Price volatility detection and smoothing.
 
-Correlation matrix between different commodities.
+- Correlation matrix between different commodities.
 
-Seasonal trends and pattern identification.
+- Seasonal trends and pattern identification.
 
 
 
 ## 💡 Insights & Outcomes
-Visualized significant market events (e.g., 2008 financial crisis, 2020 COVID-19 pandemic) reflected in commodity prices.
+- Visualized significant market events (e.g., 2008 financial crisis, 2020 COVID-19 pandemic) reflected in commodity prices.
 
-Detected high correlation between specific commodities like crude oil and natural gas.
+- Detected high correlation between specific commodities like crude oil and natural gas.
 
-Identified long-term price trends and cycles.
+- Identified long-term price trends and cycles.
